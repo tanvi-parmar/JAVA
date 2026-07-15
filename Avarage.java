@@ -13,7 +13,7 @@ public class Avarage
         System.out.print("Enter C: ");
         c=sc.nextInt();
         avg=(a+b+c)/3;
-        System.out.println("Avaragee = "+avg);
+        System.out.println("Avarage = "+avg);
                 
     }
 }
